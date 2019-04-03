@@ -12,4 +12,4 @@
 ?>
 <?php
 
-$thing = 'a 1.1 thing';
+$thing = 'just a 1.1 thing';
