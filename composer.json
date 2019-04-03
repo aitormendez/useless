@@ -1,0 +1,16 @@
+{
+  "name": "aitormendez/useless",
+  "description": "",
+  "keywords": ["wordpress", "plugin"],
+  "homepage": "https://github.com/aitormendez/useless",
+  "authors": [
+    {
+      "name": "Aitor Méndez",
+      "homepage": "https://telmo.club/"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=5.6"
+  }
+}
